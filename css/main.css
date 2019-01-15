@@ -124,13 +124,13 @@ img{
 .social a{
 	margin-left: 10px;
 }
-.contact-title h2, .services-title h2, .about-title h2, .thoughts-title h2{
+.contact-title h2, .services-title h2, .about-title h2, .thoughts-title h2, .blog-title h2{
 	position: relative;
     display: inline-block;
 	margin-bottom: 70px;
     cursor: pointer;
 }
-.contact-title h2:after, .services-title h2:after, .about-title h2:after, .thoughts-title h2:after{
+.contact-title h2:after, .services-title h2:after, .about-title h2:after, .thoughts-title h2:after, .blog-title h2:after{
 	content: '';
     position: absolute;
     left: 0%;
@@ -144,7 +144,7 @@ img{
     background-size: cover;
     transition: 0.4s;
 }
-.contact-title p, .services-title p, .about-title p, .about-end p{
+.contact-title p, .services-title p, .about-title p, .about-end p, .blog-title p{
 	font-family: "georgia";
 	font-size: 24px;
 }
@@ -163,6 +163,61 @@ img{
 	color: black;
 	text-decoration: none;
 	cursor: pointer;
+}
+.blog-title p a{
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+}
+.blog-title{
+	margin-bottom: 150px;
+	display: none;
+}
+.blog-title ul {
+	list-style: none;
+}
+.blog-title li span{
+	display: block;
+	color: #a7a1a1;
+	font-weight: bold;
+	font-size: 15px;
+	text-transform: uppercase;
+	margin-bottom: -10px;
+}
+.blog-title li{
+	margin-bottom: 30px;
+}
+.blog-title li:last-of-type{
+	margin-bottom: 1rem;
+}
+.blog-title li a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 24px;
+	border-bottom-color: rgb(126, 241, 249);
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	position: relative;
+}
+.blog-title li a::before{
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 3px;
+	bottom: -3px;
+	left: 0;
+	background-color: #0151ba;
+	visibility: hidden;
+	-webkit-transform: scaleX(0);
+	transform: scaleX(0);
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.30s ease-in-out 0s;
+}
+.blog-title li a:hover::before{
+	visibility: visible;
+	-webkit-transform: scaleX(1);
+	transform: scaleX(1);
 }
 .services-content, .about-content, .thoughts-content{
 	margin-top: 40px;
