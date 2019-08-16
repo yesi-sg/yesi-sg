@@ -1,6 +1,4 @@
 # Yesenia Garcia
- [Email](mailto:yesi@yesigarcia.com)  [Gitlab](https://gitlab.com/yesi.sg/data-analyst)  [Github](https://github.com/yesi-sg/)  [LinkedIn](https://www.linkedin.com/in/yesisg/) 
-
 Highly motivated, innovative, and organized professional with a track record of advancement and increasing responsibility. Digital native and experienced analyst with a passion for data mining and cogent displays.
 
 ## Sr. Data Analyst at Nordstrom
@@ -51,3 +49,9 @@ SQL, MySQL, PostgreSQL, Git, ETL, Python (beginner), Markdown, HTML, MermaidJS, 
 Gitlab, Github, AWS Redshift, S3, Snowplow, Coremetrics, Atom, Jenkins, Luigi, BeetleETL, Teradata, DBeaver, SSMS, Tableau, Agile, JIRA, Confluence, Kibana, Datadog, Jekyll, PowerBI, PowerPivot, Excel
 ### Education
 Graduated Buckingham High ’06, Solano College‘10
+
+### Links
+* [Email](mailto:yesi@yesigarcia.com)
+* [Gitlab](https://gitlab.com/yesi.sg/data-analyst)
+* [Github](https://github.com/yesi-sg/)
+* [LinkedIn](https://www.linkedin.com/in/yesisg/) 
