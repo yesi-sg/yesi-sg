@@ -1,155 +1,49 @@
-Education:
------------
+# Yesenia Garcia
+ [Email](mailto:yesi@yesigarcia.com)  [Gitlab](https://gitlab.com/yesi.sg/data-analyst)  [Github](https://github.com/yesi-sg/)  [LinkedIn](https://www.linkedin.com/in/yesisg/) 
 
-Colgate University
-- Computer Science '21
+Highly motivated, innovative, and organized professional with a track record of advancement and increasing responsibility. Digital native and experienced analyst with a passion for data mining and cogent displays.
 
-Activities:
+## Sr. Data Analyst at Nordstrom
+Feb. 2019 – Present | Seattle, WA
+Lead analyst supporting the development and evolution of our BI platforms and enterprise-wide BI analytic requests and reporting. Own ETL automation processes using Python, Docker, and Luigi in tandem with Data Engineers. Liaison to our engineering partners to ensure data structure and quality effectively support BI teams near and long term strategic needs. SQL user group leader supporting query optimization and design best practices.
+* Developed site item image quality reporting identifying suppliers with sub 60% asset compliance rate
+* Manage production schema and repo of 20+ analysts contributing to batch of 100+ nightly ETL jobs
+* Implemented data governance standards via code reviews, snippets, production releases, and documentation in markdown, Jekyll sites and Atlassian products
+* Promoted from Data Analyst III to Senior Data Analyst, IC track parallel to management
 
-- Member Ballroom Dance group
-- Racquetball
-- Member Dining Services Committee
-- President <Colgate Coders> Club
+## Data Analyst III at Nordstrom
+Nov. 2017 – Jan. 2019 | Seattle, WA
+Building and designing insightful, flexible, contextually rich, and accessible tools. Supporting Digital Merchandisers with tools to analyze customer behavior and site experience. Our team strives to create and maintain a foundation of data driven decisions.
+* Migrated ETL clickstream code and platforms from Teradata (Coremetrics) to AWS Redshift (Snowplow)
+* Delivered automated homepage tool for personalized content analysis on desktop, mobile, and app
+* Created Tableau User Community @ Nordstrom, a space to share knowledge and support for optimized, performance focused dashboard design in accordance to Tableau best practices
 
+## Data Analyst at SST Group, LLC 
+Nov. 2013 – Oct. 2017 | Bellevue, WA
+Architected and managed data models from multiple transactional databases, internal and digital data sources; identified and prioritized actionable insights across a variety of core business areas. Encouraged a culture of data-driven decision making through implementation of automated, custom dashboards and reporting deliverables to Marketing, Operations, and Executive teams.
+* Optimized marketing initiatives by channel performance; reducing ad spend by 25% in first year
+* Developed product, staffing and services reporting, saving $80K in payroll and inventory costs
+* Implemented reporting solutions enabling stakeholders to manage business and make effective decisions
+* Introduced BI infrastructure and migrated reporting to hosted platform, without increasing technology costs
 
-Experience:
--------------
+## Data Analyst, Reporting & Analytics at Spring Creek Group
+Mar. 2011 – Oct. 2013 | Seattle, WA
+Worked cross-functionally with Campaigns, Communities and Infrastructure teams to coordinate data extraction and develop custom dashboards for internal analysis and client reporting. Honed expertise structuring and integrating complex data sets while automating reporting processes. Managed multiple data sources and vendor relationships.
+* Managed data reporting requests company-wide for all clients, including Fortune 100 companies
+* Restructured and automated existing reporting processes to reduce demand for fulfillment resources
+* Supported internal data infrastructure team; introduced cross platform compatible reporting solutions
+* Implemented and maintained engagement dashboards to accurately measure ongoing social performance
 
-Colgate University (2017-present)
-Research Assistant under Prof. Madeline Smith - Computer Science Department
-
-- Developing concussion management app that allows users to record concussion data & track progress over time
-- Used Python (Flask) to develop the online API and Ionic Framework to develop the cross-platform mobile app
-
-Intermediate Python Book (2015-present):
-Book Author
-
-- Self-published English version read by 619,000+ people in 186+ countries and being used at McGill, UC Berkeley (among others) as supplementary material
-- Publication has since been translated into Chinese, Russian, Portuguese and Korean and Turkish translation is in progress
-
-Fibre Craft Industries (2015-2016):
-Freelance Full Stack Software Developer
-
-- Designed company website using Django & deployed it on Digital Ocean
-- Applied User Centered Design methodology while developing the CMS catered to non-technical users
-- Used A/B testing and the performance of specific keywords to guide the initial Facebook and Google advertising strategy to maximize traffic
-
-Caramel Tech Studios (Summer 2015):
-Web Development Intern
-
-- Developed music streaming website using MediaElements.js, iTunes API and Python
-- Programmed a newsletter signup page using PHP, HTML, CSS & JS
-- Interacted with the customers directly & learned essential professional communication skills
+## Contract Associate Marketing Manager at Parallels 
+Oct. 2010- Mar. 2011 | Renton, WA
+Developed a social media study of Latin America, assisting with Parallels Summit demand outreach, and supporting brand compliance among Parallels Service Provider Partners.
 
 
-Projects:
---------
-
-[Learn-git](https://yasoob.github.io/learn-git)
-
-- Taught people the basics of Git version control system by providing contextual examples in form of code-snippets
-- Developed & hosted as a static website using GitHub pages
-
-[Facebook-Reddit Messenger Bot](https://github.com/yasoob/fb-messenger-bot):
-
-- A messenger bot which shares memes, jokes and motivational posts from Reddit on Messenger
-- Used Python and the Facebook bot API to develop the backend
-- Hosted the online API on Heroku & used Postgresql to save the posts from Reddit in a database
-
-Automated Alzheimer's Detection:
-
-- Independent research project to predict the onset of Alzheimer's by training machine learning algorithms on the online OasisBrain dataset
-- Achieved an accuracy of 88% by developing an ensemble of SVM and Artificial Neural Networks by using keras and scikit-learn
-
-[Python Tips Blog & Newsletter](https://pythontips.com)
-
-- Have been maintaining the blog since 2013 and the newsletter since 2016
-- Followed by people from MIT, UPenn, Intel, Cisco & UK Customs (among others)
-- Referenced in classes at CMU, Berkeley, UC Santa Barbara, UArk etc
-- Read by more than 2 Million people in 180+ countries
-
-[Youtube-dl GUI](github.com/yasoob/youtube-dl-gui)
-
-- Developed the GUI of the famous youtube-dl script by using PyQt (Python)
-- Implemented media conversion using ffmpeg and multi-threading
-
-Tube Downloader
-
-- Developed an Android app using Java for downloading music and videos
-- Handled 100 requests per second using the Python based web API on Heroku
-- Was used by 400,000+ people before I discontinued the project
-
-[Bully-be-Gone](https://github.com/yasoob/fb-sent)
-
-- Countered cyber-bullying by developing a Chrome extension to monitor Facebook messages for bullying
-- Used Watson API to detect anger sentiment in a message
-- Created a web portal, using flask, for the parents so they can keep a check on their children and get notified (with timestamp) if and when their child receives a bully msg
-
-
-Achievements
-------------
-
-Google Code-in Finalist (2016):
-
-- Completed 55+ tasks using Python, Go, Java, C etc. over the course of a month
-- Named the first ever finalist from Pakistan
-
-Winner Softec (2016):
-
-- Won the biggest collegiate programming competition in Pakistan by developing an eCommerce website using Django & Oscar
-- We were the only High School team at the competition
-- Won $500 dollars
-
-[MHacks Hackathon (2015)](https://devpost.com/software/e-valuator):
-
-- Developed an Augmented reality app for Meta Goggles with a team comprising of students from University of Waterloo 
-- Developed the app using C# in Unity3d and the web API using Flask (Python)
-- Got ranked among top 10 teams from among 1500 participants
-
-Speaker at EuroPython (2014):
-
-- Youngest and only speaker from Pakistan at the biggest Python language conference in Europe
-- Talked about Scrapy and web scraping using Python
-- Talk attended by 200+ industry professionals from Facebook, Intel, Amazon etc.
-
-<Colgate Coders> (2017):
-
-- Created the first pure programming club at Colgate
-- Organized multiple events including workshops and webcast screenings
-- Sent teams to different hackathons and planning to organize a hackathon at Colgate
-
-
-Languages:
-----------
-
-International Languages: 
-
-- Urdu    (native)
-- Punjabi (native)
-- English (proficient)
-- Siraiki (proficient)
-- Hindi   (proficient)
-- German  (Basic)
-- Arabic  (Basic)
-
-Computer Languages:
-
-- Python      (proficient)
-- JavaScript  (proficient)
-- HTML        (proficient)
-- CSS         (proficient)
-
-- Java        (Working Knowledge)
-- Ruby        (Working Knowledge)
-- C#          (Working Knowledge)
-
-
-Links:
-------
-
-- [GitHub](https://github.com/yasoob) 
-- [Personal](http://yasoob.me)
-- [Book](http://book.pythontips.com)
-- [Blog](http://pythontips.com)
-
-
+### Languages
+English-Spanish
+### Code
+SQL, MySQL, PostgreSQL, Git, ETL, Python (beginner), Markdown, HTML, MermaidJS, JQL, PowerQuery, DAX, advanced knowledge of Boolean Query logic and relational databases
+### Programs
+Gitlab, Github, AWS Redshift, S3, Snowplow, Coremetrics, Atom, Jenkins, Luigi, BeetleETL, Teradata, DBeaver, SSMS, Tableau, Agile, JIRA, Confluence, Kibana, Datadog, Jekyll, PowerBI, PowerPivot, Excel
+### Education
+Graduated Buckingham High ’06, Solano College‘10
