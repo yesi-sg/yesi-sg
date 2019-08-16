@@ -5,6 +5,7 @@ Highly motivated, innovative, and organized professional with a track record of 
 
 ## Sr. Data Analyst at Nordstrom
 Feb. 2019 – Present | Seattle, WA
+<br>
 Lead analyst supporting the development and evolution of our BI platforms and enterprise-wide BI analytic requests and reporting. Own ETL automation processes using Python, Docker, and Luigi in tandem with Data Engineers. Liaison to our engineering partners to ensure data structure and quality effectively support BI teams near and long term strategic needs. SQL user group leader supporting query optimization and design best practices.
 * Developed site item image quality reporting identifying suppliers with sub 60% asset compliance rate
 * Manage production schema and repo of 20+ analysts contributing to batch of 100+ nightly ETL jobs
@@ -12,7 +13,8 @@ Lead analyst supporting the development and evolution of our BI platforms and en
 * Promoted from Data Analyst III to Senior Data Analyst, IC track parallel to management
 
 ## Data Analyst III at Nordstrom
-Nov. 2017 – Jan. 2019 | Seattle, WA
+Nov. 2017 – Jan. 2019 | Seattle, WA 
+<br>
 Building and designing insightful, flexible, contextually rich, and accessible tools. Supporting Digital Merchandisers with tools to analyze customer behavior and site experience. Our team strives to create and maintain a foundation of data driven decisions.
 * Migrated ETL clickstream code and platforms from Teradata (Coremetrics) to AWS Redshift (Snowplow)
 * Delivered automated homepage tool for personalized content analysis on desktop, mobile, and app
@@ -20,6 +22,7 @@ Building and designing insightful, flexible, contextually rich, and accessible t
 
 ## Data Analyst at SST Group, LLC 
 Nov. 2013 – Oct. 2017 | Bellevue, WA
+<br>
 Architected and managed data models from multiple transactional databases, internal and digital data sources; identified and prioritized actionable insights across a variety of core business areas. Encouraged a culture of data-driven decision making through implementation of automated, custom dashboards and reporting deliverables to Marketing, Operations, and Executive teams.
 * Optimized marketing initiatives by channel performance; reducing ad spend by 25% in first year
 * Developed product, staffing and services reporting, saving $80K in payroll and inventory costs
@@ -28,6 +31,7 @@ Architected and managed data models from multiple transactional databases, inter
 
 ## Data Analyst, Reporting & Analytics at Spring Creek Group
 Mar. 2011 – Oct. 2013 | Seattle, WA
+<br>
 Worked cross-functionally with Campaigns, Communities and Infrastructure teams to coordinate data extraction and develop custom dashboards for internal analysis and client reporting. Honed expertise structuring and integrating complex data sets while automating reporting processes. Managed multiple data sources and vendor relationships.
 * Managed data reporting requests company-wide for all clients, including Fortune 100 companies
 * Restructured and automated existing reporting processes to reduce demand for fulfillment resources
@@ -36,9 +40,9 @@ Worked cross-functionally with Campaigns, Communities and Infrastructure teams t
 
 ## Contract Associate Marketing Manager at Parallels 
 Oct. 2010- Mar. 2011 | Renton, WA
+<br>
 Developed a social media study of Latin America, assisting with Parallels Summit demand outreach, and supporting brand compliance among Parallels Service Provider Partners.
-
-
+<br>
 ### Languages
 English-Spanish
 ### Code
